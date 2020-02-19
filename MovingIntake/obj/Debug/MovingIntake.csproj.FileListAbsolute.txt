@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\MovingIntake\MovingIntake\bin\Debug\MovingIntake.exe.config
+C:\Users\Admin\source\repos\MovingIntake\MovingIntake\bin\Debug\MovingIntake.exe
+C:\Users\Admin\source\repos\MovingIntake\MovingIntake\bin\Debug\MovingIntake.pdb
+C:\Users\Admin\source\repos\MovingIntake\MovingIntake\obj\Debug\MovingIntake.Form1.resources
+C:\Users\Admin\source\repos\MovingIntake\MovingIntake\obj\Debug\MovingIntake.Properties.Resources.resources
+C:\Users\Admin\source\repos\MovingIntake\MovingIntake\obj\Debug\MovingIntake.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MovingIntake\MovingIntake\obj\Debug\MovingIntake.exe
+C:\Users\Admin\source\repos\MovingIntake\MovingIntake\obj\Debug\MovingIntake.pdb
+C:\Users\Admin\source\repos\MovingIntake\MovingIntake\obj\Debug\MovingIntake.csprojAssemblyReference.cache
